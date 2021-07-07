@@ -9,3 +9,4 @@ the sales revenue  and the sales quntity  insides is the main motto of this dash
 we  can also operate This dashbord from the mobile also :
 
 
+![Screenshot (50)](https://user-images.githubusercontent.com/75326769/124745442-742c6e00-df3d-11eb-8fc7-db1c822aa2ce.png)
